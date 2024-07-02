@@ -1,0 +1,4 @@
+[dev]
+  command = "json-server --watch db.json --port 8888"
+  publish = "build"
+  port = 8888
